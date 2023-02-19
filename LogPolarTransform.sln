@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogPolarTransform", "LogPolarTransform\LogPolarTransform.csproj", "{3D058E58-4C60-4A31-AFD8-4E2BA600266B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D058E58-4C60-4A31-AFD8-4E2BA600266B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D058E58-4C60-4A31-AFD8-4E2BA600266B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D058E58-4C60-4A31-AFD8-4E2BA600266B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D058E58-4C60-4A31-AFD8-4E2BA600266B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {357D4138-3EF7-4E98-B799-C7EA5E8F8203}
+	EndGlobalSection
+EndGlobal
